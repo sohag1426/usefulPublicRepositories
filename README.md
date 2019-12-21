@@ -1,3 +1,3 @@
-#Repositories:
+#Repositories
 ##Terminus
 
