@@ -7,6 +7,10 @@
   * **Use Case:**  Read and write simple Excel and CSV files.
   * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
 
+* ## [swiftmailer](https://github.com/swiftmailer/swiftmailer)
+  * **Use Case:**  Email tools for PHP
+  * :sparkling_heart: :sparkling_heart:
+
 * ## [Terminus](https://github.com/Eugeny/terminus)
   * **Use Case:**  alternative to PuTTY.
   * :sparkling_heart: :sparkling_heart:
