@@ -1,13 +1,23 @@
 # Repositories
 
+* ## [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  * **Use Case:**   Admin Dashboard Template.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+
 * ## [AVideo](https://github.com/WWBN/AVideo)
   * **Use Case:**  FTP Server.
   
 * ## [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker)
   * **Use Case:**  BitTorrent tracker.
-
+  
+* ## [bKash integration in php](https://github.com/bKash-developer/pgw-merchant-backend-php)
+  * **Use Case:**  bKash pgw integration in php.
+  
 * ## [clappr](https://github.com/clappr/clappr)
   * **Use Case:**  Media player for the web.
+ 
+* ## [class.upload.php](https://github.com/verot/class.upload.php)
+  * **Use Case:**  PHP class for uploads files and manipulates images.
   
 * ## [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
   * **Use Case:**  An extended table library.
@@ -21,18 +31,59 @@
 * ## [hls.js](https://github.com/video-dev/hls.js)
   * **Use Case:**  HTTP Live Streaming player.
   
+* ## [http-streaming](https://github.com/videojs/http-streaming)
+  * **Use Case:**  HLS, DASH, and future HTTP streaming protocols library for video.js.
+ 
+* ## [image-picker](https://github.com/rvera/image-picker)
+  * **Use Case:**  To transform a select element into a more user friendly graphical interface.
+  
+* ## [laraadmin](https://github.com/dwijitsolutions/laraadmin)
+  * **Use Case:**  Laravel Admin Panel.
+  
+* ## [letsencrypt-zimbra](https://github.com/VojtechMyslivec/letsencrypt-zimbra)
+  * **Use Case:**  To automate the deploy of letsencrypt certificates to Zimbra.
+ 
+* ## [magicsuggest](https://github.com/Magicsuggest/magicsuggest)
+  * **Use Case:**  Multiple Selection Combo Box using Bootstrap 3.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
+* ## [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
+  * **Use Case:**   PHP class for detecting mobile devices.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
 * ## [monolog](https://github.com/Seldaek/monolog)
   * **Use Case:**  Save php application logs to a file.
   * :sparkling_heart: :sparkling_heart: :sparkling_heart:
 
+* ## [multiselect](https://github.com/crlcu/multiselect)
+  * **Use Case:**  jQuery multiselect plugin with two sides.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+ 
+* ## [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
+  * **Use Case:**  Live TV Server.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
+* ## [opentracker-auto-installer](https://github.com/coldwinds/opentracker-auto-installer)
+  * **Use Case:**  OpenTracker Installer Script.
+  * :sparkling_heart: :sparkling_heart:
+  
 * ## [p2p-media-loader](https://github.com/Novage/p2p-media-loader)
   * **Use Case:**  P2P streaming of live and on demand video.
   
 * ## [pdfmake](https://github.com/bpampuch/pdfmake)
   * **Use Case:**  PDF printing in pure JavaScript.
- 
- * ## [php-casbin](https://github.com/php-casbin/php-casbin)
+  
+* ## [php-casbin](https://github.com/php-casbin/php-casbin)
   * **Use Case:**  Access control models like ACL in PHP.
+ 
+* ## [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+  * **Use Case:**  The classic email sending library for PHP.
+
+* ## [PHP-Pagination](https://github.com/sohag1426/Flexible-PHP-Pagination)
+  * **Use Case:**  PHP Pagination by [Modularr](https://github.com/Modularr/Flexible-PHP-Pagination)
+  
+* ## [php-qrcode](https://github.com/chillerlan/php-qrcode)
+  * **Use Case:**  QR Code generator for PHP.
  
 * ## [pmacct](https://github.com/pmacct/pmacct)
   * **Use Case:**  Network monitoring tools(NetFlow, IPFIX)
@@ -54,7 +105,10 @@
 * ## [swiftmailer](https://github.com/swiftmailer/swiftmailer)
   * **Use Case:**  Email tools for PHP
   * :sparkling_heart: :sparkling_heart:
-
+  
+* ## [sslcommerz-Integration-in-RAW-PHP](https://github.com/sslcommerz/Integration-in-RAW-PHP)
+  * **Use Case:**  sslcommerz Integration in RAW PHP.
+  
 * ## [Terminus](https://github.com/Eugeny/terminus)
   * **Use Case:**  alternative to PuTTY.
   * :sparkling_heart: :sparkling_heart:
