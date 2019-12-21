@@ -1,5 +1,9 @@
 # Repositories
 
+* ## [2fa-library](https://github.com/2amigos/2fa-library)
+  * **Use Case:**   2 Factor Authentication (2FA) library.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
 * ## [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
   * **Use Case:**   Admin Dashboard Template.
   * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
@@ -25,11 +29,17 @@
 * ## [elastiflow](https://github.com/robcowart/elastiflow)
   * **Use Case:**  Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
   
+* ## [eucalyptus](https://github.com/eucalyptus/eucalyptus)
+  * **Use Case:**  KVM Controller.
+  
 * ## [google-api-php-client](https://github.com/googleapis/google-api-php-client)
   * **Use Case:**  A PHP client library for accessing Google APIs.
-   
+  
 * ## [hls.js](https://github.com/video-dev/hls.js)
   * **Use Case:**  HTTP Live Streaming player.
+ 
+* ## [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)
+  * **Use Case:**  Beautifier for HTML.
   
 * ## [http-streaming](https://github.com/videojs/http-streaming)
   * **Use Case:**  HLS, DASH, and future HTTP streaming protocols library for video.js.
@@ -101,6 +111,9 @@
   
 * ## [Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton)
   * **Use Case:**  A PHP micro framework.
+ 
+* ## [snappy](https://github.com/KnpLabs/snappy)
+  * **Use Case:**  PDF generation from a url or a html page.
   
 * ## [swiftmailer](https://github.com/swiftmailer/swiftmailer)
   * **Use Case:**  Email tools for PHP
