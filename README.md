@@ -7,6 +7,10 @@
 * ## [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
   * **Use Case:**   Admin Dashboard Template.
   * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
+* ## [adminTheme](https://github.com/modularcode/modular-admin-html)
+  * **Use Case:**   Admin Dashboard Template.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart:
 
 * ## [AVideo](https://github.com/WWBN/AVideo)
   * **Use Case:**  FTP Server.
