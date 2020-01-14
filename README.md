@@ -95,9 +95,12 @@
 
 * ## [PHP-Pagination](https://github.com/sohag1426/Flexible-PHP-Pagination)
   * **Use Case:**  PHP Pagination by [Modularr](https://github.com/Modularr/Flexible-PHP-Pagination)
-  
+
 * ## [php-qrcode](https://github.com/chillerlan/php-qrcode)
   * **Use Case:**  QR Code generator for PHP.
+  
+* ## [php-pm](https://github.com/php-pm/php-pm)
+  * **Use Case:** PPM is a process manager, supercharger and load balancer for modern PHP applications.
  
 * ## [pmacct](https://github.com/pmacct/pmacct)
   * **Use Case:**  Network monitoring tools(NetFlow, IPFIX)
