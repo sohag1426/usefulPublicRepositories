@@ -37,6 +37,10 @@
   
 * ## [elastiflow](https://github.com/robcowart/elastiflow)
   * **Use Case:**  Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
+
+* ## [email templates for applications](https://github.com/wildbit/postmark-templates)
+  * **Use Case:**   Email templates for applications.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
   
 * ## [eucalyptus](https://github.com/eucalyptus/eucalyptus)
   * **Use Case:**  KVM Controller.
