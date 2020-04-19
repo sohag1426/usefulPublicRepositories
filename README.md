@@ -110,7 +110,11 @@
   
 * ## [php-pm](https://github.com/php-pm/php-pm)
   * **Use Case:** PPM is a process manager, supercharger and load balancer for modern PHP applications.
- 
+  
+* ## [phptidy](https://github.com/cmrcx/phptidy)
+  * **Use Case:**  PHP Code Beautifier.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+  
 * ## [pmacct](https://github.com/pmacct/pmacct)
   * **Use Case:**  Network monitoring tools(NetFlow, IPFIX)
  
