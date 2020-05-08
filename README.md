@@ -93,6 +93,10 @@
 * ## [p2p-media-loader](https://github.com/Novage/p2p-media-loader)
   * **Use Case:**  P2P streaming of live and on demand video.
   
+* ## [pdf.js](https://github.com/mozilla/pdf.js)
+  * **Use Case:**  PDF Reader in JavaScript.
+  * :sparkling_heart: :sparkling_heart:
+  
 * ## [pdfmake](https://github.com/bpampuch/pdfmake)
   * **Use Case:**  PDF printing in pure JavaScript.
   
