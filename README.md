@@ -97,12 +97,17 @@
   * **Use Case:**  PDF Reader in JavaScript.
   * :sparkling_heart: :sparkling_heart:
   
+* ## [pdf-to-image](https://github.com/spatie/pdf-to-image)
+  * **Use Case:**  Convert a pdf to an image.
+  * :sparkling_heart: :sparkling_heart:
+  
 * ## [pdfmake](https://github.com/bpampuch/pdfmake)
   * **Use Case:**  PDF printing in pure JavaScript.
   
-* ## [php-casbin](https://github.com/php-casbin/php-casbin)
-  * **Use Case:**  Access control models like ACL in PHP.
- 
+* ## [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+  * **Use Case:**  PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
+  * :sparkling_heart: :sparkling_heart:
+  
 * ## [PHPMailer](https://github.com/PHPMailer/PHPMailer)
   * **Use Case:**  The classic email sending library for PHP.
 
