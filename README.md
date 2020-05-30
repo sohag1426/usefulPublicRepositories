@@ -124,6 +124,10 @@
 * ## [routeros-api](https://github.com/BenMenking/routeros-api)
   * **Use Case:**  Client API for RouterOS/Mikrotik
   * :sparkling_heart: :sparkling_heart: :sparkling_heart:
+ 
+* ## [routeros-api(new)](https://github.com/EvilFreelancer/routeros-api-php)
+  * **Use Case:**  Client API for RouterOS/Mikrotik
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart:
   
 * ## [simple-excel](https://github.com/spatie/simple-excel)
   * **Use Case:**  Read and write simple Excel and CSV files.
