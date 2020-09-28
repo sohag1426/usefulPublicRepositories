@@ -53,7 +53,10 @@
   
 * ## [laraadmin](https://github.com/dwijitsolutions/laraadmin)
   * **Use Case:**  Laravel Admin Panel.
-  
+
+* ## [Laravel Package Tutorial](https://github.com/Jhnbrn90/LaravelPackage.com)
+ * **Use Case:**  Laravel Package Tutorial.
+
 * ## [letsencrypt-zimbra](https://github.com/VojtechMyslivec/letsencrypt-zimbra)
   * **Use Case:**  To automate the deploy of letsencrypt certificates to Zimbra.
  
