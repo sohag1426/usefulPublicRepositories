@@ -37,6 +37,7 @@
   * **Use Case:**  KVM Controller.
   
 * ## [google-api-php-client](https://github.com/googleapis/google-api-php-client)
+* ## [google-api-php-client-laravel](https://github.com/pulkitjalan/google-apiclient)
   * **Use Case:**  A PHP client library for accessing Google APIs.
   
 * ## [hls.js](https://github.com/video-dev/hls.js)
