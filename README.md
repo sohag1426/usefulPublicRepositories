@@ -169,4 +169,8 @@
 * ## [microweber](https://github.com/microweber/microweber)
   * **Use Case:**  Drag and Drop Website Builder and CMS with E-commerce.
 
+##  PHP image handling and manipulation
+
+* ## [Intervention Image](https://github.com/Intervention/image)
+  * **Use Case:**  create, edit, and compose images.
   
