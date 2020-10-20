@@ -173,4 +173,5 @@
 
 * ## [Intervention Image](https://github.com/Intervention/image)
   * **Use Case:**  create, edit, and compose images.
-  
+ 
+* ## [PHP Imagick for Windows](https://mlocati.github.io/articles/php-windows-imagick.html)
