@@ -1,5 +1,9 @@
 # Repositories
 
+* ## [Mobile Validation Laravel](https://github.com/Propaganistas/Laravel-Phone)
+  * **Use Case:**   Phone Number Validation.
+  * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
+
 * ## [2fa-library](https://github.com/2amigos/2fa-library)
   * **Use Case:**   2 Factor Authentication (2FA) library.
   * :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart:
